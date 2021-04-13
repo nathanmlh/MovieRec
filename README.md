@@ -70,4 +70,4 @@ Decide faster on which movie to watch.
 - [ ] Movie view screen -> Account Details screen
 
 ## Wireframes
-![](./foodhubDiagram.png)
+![](./movieRecArchitecture.png)
