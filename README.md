@@ -68,3 +68,6 @@ Decide faster on which movie to watch.
 - [ ] Movie view screen -> Movie details screen
 * Movie liked screen -> User able to unlike or view movies
 - [ ] Movie view screen -> Account Details screen
+
+## Wireframes
+![](./foodhubDiagram.png)
