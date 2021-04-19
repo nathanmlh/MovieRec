@@ -8,7 +8,7 @@
 import UIKit
 import AlamofireImage
 
-class MovieCell: UIView {
+class MovieCard: UIView {
     @IBOutlet weak var movieImage: UIImageView!
     @IBOutlet weak var movieTitleLabel: UILabel!
     
